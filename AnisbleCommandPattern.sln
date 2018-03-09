@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnisbleCommandPattern", "AnisbleCommandPattern\AnisbleCommandPattern.csproj", "{ECDC9B7B-CF95-4D55-8220-76D1C1DEF579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECDC9B7B-CF95-4D55-8220-76D1C1DEF579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECDC9B7B-CF95-4D55-8220-76D1C1DEF579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECDC9B7B-CF95-4D55-8220-76D1C1DEF579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECDC9B7B-CF95-4D55-8220-76D1C1DEF579}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52DCC8EE-9D52-4469-B6EB-1AE7D3E90A6E}
+	EndGlobalSection
+EndGlobal
